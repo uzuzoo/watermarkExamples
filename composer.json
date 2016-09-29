@@ -1,0 +1,17 @@
+{
+  "name": "uzuzoo/watermarkExamples",
+  "description": "Examples of Watermarking Different File Types",
+  "keywords": ["watermark", "watermarkExamples"],
+  "homepage": "https://github.com/uzuzoo/watermarkExamples",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Alec Wright",
+          "email": "alec@intrica.net"
+      }
+  ],
+  "require": {
+      "uzuzoo/watermark": "1.8.1",
+  }
+}
